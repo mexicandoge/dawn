@@ -1,12 +1,11 @@
-# dawn
-A startpage called "dawn" (WIP)
+# sunrise
+An edited version of "dawn" for personal use, i only changed the links and nothing else
 
-[**Live Preview**](https://0-l.github.io/dawn/?)
+[**Live Preview**](https://mexicandoge.github.io/sunrise/?)
 
 ### Keybindings
 
 - `Numrow/Numpad` switch tabs (this is for i3. You can change this in powerline.js)
 - `s` open search dialog
 
-### Preview
-![preview](https://i.imgur.com/6ImuuEH.png)
+
